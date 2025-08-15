@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdav=self.webpackChunkdav||[]).push([[7847],{3288:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/dav/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
